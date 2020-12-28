@@ -23,24 +23,42 @@ The resulting dataset has the following features:
 '{xyz}' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tbodyacc{xyz}
+
 tgravityacc{xyz}
+
 tbodyaccJerk{xyz}
+
 tbodygyro{xyz}
+
 tbodygyrojerk{xyz}
+
 tbodyaccmag
+
 tgravityaccmag
+
 tbodyaccjerkmag
+
 tbodygyromag
+
 tbodygyrojerkmag
+
 fbodyacc-XYZ
+
 fbodyaccjerk-XYZ
+
 fbodygyro-XYZ
+
 fbodyaccmag
+
 fbodyaccjerkmag
+
 fbodygyromag
+
 fbodygyrojerkmag
+
 
 The set of variables that were estimated from these signals are: 
 
 mean: Mean value
+
 std: Standard deviation
