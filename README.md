@@ -1,8 +1,8 @@
 Human Activity Recognition Using Smartphones Tidy Dataset
 ==================================================================
 
-Raw data documentation / readme / codebooks can be found within "UCI HAR Dataset" subfolder. More information is provided there on the initial data collection and processing.
-This readme and associated codebook relate only to the subsequent processing of that data.
+This readme and associated codebook relate to the processing of the following data:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 
 The analysis/tidying carried out is as follows:
