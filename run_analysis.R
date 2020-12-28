@@ -1,11 +1,8 @@
 library(dplyr)
 
-#################################
-# Download, unzip and load data #
-#################################
-
-download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip","data.zip")
-unzip("data.zip")
+#######################
+# Unzip and load data #
+#######################
 
 colnames <- read.table("UCI HAR Dataset/features.txt")[,2]
 
